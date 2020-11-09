@@ -1,0 +1,75 @@
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe.config
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\bin\Debug\System.Data.SQLite.dll
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmMain.resources
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.Properties.Resources.resources
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csproj.GenerateResource.Cache
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+D:\QUAN_LY_PHONG_MAY\QUAN_LY_PHONG_MAY\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe.config
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\bin\Debug\System.Data.SQLite.dll
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmMain.resources
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.Properties.Resources.resources
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csproj.GenerateResource.Cache
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmLogin.resources
+D:\QUAN_LY_PHONG_MAY_TIN_HOC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csprojResolveAssemblyReference.cache
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe.config
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\bin\Debug\System.Data.SQLite.dll
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csprojResolveAssemblyReference.cache
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmMain.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmLogin.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.Properties.Resources.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUAN_LY_PHONG_MAY_TIN_HOC\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csproj.GenerateResource.Cache
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe.config
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\bin\Debug\System.Data.SQLite.dll
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csprojResolveAssemblyReference.cache
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmMain.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmLogin.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.Properties.Resources.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csproj.GenerateResource.Cache
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmMsg.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmTT.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmNV.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmGV.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmPHONG.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmTB.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmLTB.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmTH.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmTBSD.resources
+D:\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmSDP.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe.config
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\bin\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmSDP.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmTBSD.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmTH.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmLTB.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmTB.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmPHONG.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmGV.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmNV.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmTT.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmMain.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmLogin.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.FrmMsg.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.Properties.Resources.resources
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csproj.CopyComplete
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.exe
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.pdb
+C:\Users\Admin\Desktop\Downloads\QUẢN LÝ PHÒNG MÁY TIN HỌC\QUẢN LÝ PHÒNG MÁY TIN HỌC\SOURCE\obj\x86\Debug\QUAN_LY_PHONG_MAY_TIN_HOC.csprojAssemblyReference.cache
